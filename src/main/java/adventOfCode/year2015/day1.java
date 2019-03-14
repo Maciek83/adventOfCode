@@ -4,7 +4,7 @@ package adventOfCode.year2015;
 
 public class day1
 {
-    public static int countFloorNumber(String info)
+    private static int countFloorNumber(String info)
     {
         int startingFloor = 0;
 
