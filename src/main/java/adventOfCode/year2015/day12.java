@@ -2,7 +2,6 @@ package adventOfCode.year2015;
 
 
 import org.json.*;
-
 import java.io.*;
 import java.util.Scanner;
 
